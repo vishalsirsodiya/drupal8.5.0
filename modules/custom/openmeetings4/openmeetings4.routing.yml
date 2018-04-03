@@ -1,0 +1,7 @@
+openmeetings.routing:
+  path: /openmeetings/test
+  defaults:
+    _controller: '\Drupal\openmeetings4\Controller\OpenmeetingsController::display_text'
+    _title: 'Openmeetings Page'
+  requirements:
+    _permission: 'access content'

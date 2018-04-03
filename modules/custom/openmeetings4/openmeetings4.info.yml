@@ -1,0 +1,6 @@
+name: Apache Openmeetings 4.x
+description: Creates a module for apache openmeetings version 4.x.
+package: Apache Openmeetings
+
+type: module
+core: 8.x

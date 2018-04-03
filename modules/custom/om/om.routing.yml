@@ -1,0 +1,8 @@
+
+om.om_controller_om_test:
+  path: 'om/om_test'
+  defaults:
+    _controller: '\Drupal\om\Controller\OmController::om_test'
+    _title: 'om_test'
+  requirements:
+    _permission: 'access content'
